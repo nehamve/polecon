@@ -1,5 +1,6 @@
-﻿STAte/UT,SC,ST,OBC,Others,Total
-Northern States,11.38,7.47,14.26,19.30,16.24
-North Eastern States,2.53,18.71,2.57,3.51,4.08
-Central States,36.02,45.71,20.11,42.15,32.70
-Southern States,43.67,28.11,63.05,35.04,47.01
+﻿CASTE,Northern States,North Eastern States,Central States,Southern States
+SC,11.38,2.53,36.02,43.67
+ST,7.47,18.71,45.71,28.11
+OBC,14.26,2.57,20.11,63.05
+Others,19.30,3.51,42.15,35.04
+Total,16.24,4.08,32.70,47.01
